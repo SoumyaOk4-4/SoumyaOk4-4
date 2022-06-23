@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <b>Soumya Chkraborty</b>
+- 👋 Hi, I’m <b>Soumya Chakraborty</b>
 - 👀 I’m interested in Programming Languages
 - 🌱 I’m currently learning Web Devolopment and Android Devolopment.
 <!---
