@@ -26,4 +26,4 @@ I have a youtube channel "[Soumya Chakraborty](https://www.youtube.com/@soumyach
 
 ### 📊 Stats
 
-![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=soumyaok4-4&show_icons=true&theme=gruvbox)
+![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=soumyaok4-4&show_icons=true&theme=tokyonight)
