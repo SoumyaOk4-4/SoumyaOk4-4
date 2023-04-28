@@ -20,6 +20,7 @@ I have a youtube channel "[Soumya Chakraborty](https://www.youtube.com/@soumyach
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original-wordmark.svg" />
+<img align="left" alt="Unix" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unix/unix-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kotlin/kotlin-original.svg" />
@@ -34,11 +35,8 @@ I have a youtube channel "[Soumya Chakraborty](https://www.youtube.com/@soumyach
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="MarkDown" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/markdown/markdown-original.svg" />
 <img align="left" alt="npm" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/npm/npm-original-wordmark.svg" />
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="" />
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="" />
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="" />
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="" />
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="" />
+<img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vim/vim-plain.svg" />
+<img align="left" alt="VS-Code" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" />
 <br />
 <br />
 
