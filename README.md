@@ -6,6 +6,8 @@ I am a programmer with a little experience in website building technologies and 
 
 I have a youtube channel "[Soumya Chakraborty](https://www.youtube.com/@soumyachakraborty2004)" for teaching programming... Feel free to check it 😄
 
+---
+
 ### 🦾 Expertise
 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -40,6 +42,8 @@ I have a youtube channel "[Soumya Chakraborty](https://www.youtube.com/@soumyach
 <img align="left" alt="" width="30px" style="padding-right:10px;" src="" />
 <img align="left" alt="" width="30px" style="padding-right:10px;" src="" />
 <br />
+
+---
 
 ### 📊 Stats
 
