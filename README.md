@@ -28,4 +28,4 @@ I have a youtube channel "[Soumya Chakraborty](https://www.youtube.com/@soumyach
 ### 📊 Stats
 
 ![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=soumyaok4-4&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=soumyaok4-4&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=soumyaok4-4&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=tokyonight"/>
