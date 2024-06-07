@@ -4,8 +4,6 @@
 
 I am a programmer with a little experience in website building technologies. I have been programming since 2020 and have gained a simple understanding of the latest tools and technologies in the this field. Please feel free to explore my portfolio and contact me if you have any questions or if you are interested in working together on a project. I appreciate your time and attention in reviewing my code. If you happen to come across any bugs or issues, I kindly ask for your help in identifying them.
 
-I have a youtube channel "[Soumya Chakraborty](https://www.youtube.com/@soumyachakraborty2004)" for teaching programming... Feel free to check it 😄
-
 ### 🦾 Used to Tools
 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
